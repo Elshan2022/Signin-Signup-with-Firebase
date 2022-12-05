@@ -1,16 +1,4 @@
-# flutter_firebase_examples
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/97118009/205636293-5341f929-60cb-4a6b-9bdc-49699bc6aecc.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
